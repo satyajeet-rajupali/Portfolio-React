@@ -12,7 +12,7 @@ communicates my skills, achievements, and availability for collaboration with a 
 
 ## Live Demo
 
-[https://github.com/satyajeet-rajupali/Portfolio-React]([https://github.com/satyajeet-rajupali/Portfolio-React](https://react-portfolio-39ae0.web.app/))
+[Link](https://react-portfolio-39ae0.web.app/)
 
 ## Setup
 
