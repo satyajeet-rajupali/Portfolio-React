@@ -1,0 +1,36 @@
+#work {
+  height: 90vh;
+  min-height: 90vh;
+  overflow-y: scroll;
+  margin-top: 45px;
+  padding-top: 50px;
+}
+
+#work h5 {
+  margin-bottom: 10px;
+  line-height: 22px;
+}
+
+#work .workblock {
+  border-bottom: 1px solid #000;
+  margin-bottom: 10px;
+  padding: 20px 0px;
+}
+
+#work .workblock:last-child {
+  border-bottom: 0px;
+}
+
+#work h6.position {
+  margin-top: -7px;
+}
+
+@media (max-width: 767px) {
+  #work {
+    padding-top: 20px;
+  }
+
+  #work h2 {
+    margin-bottom: 0px !important;
+  }
+}

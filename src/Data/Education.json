@@ -1,0 +1,23 @@
+[
+    {
+        "id":1,
+        "coursename":"B.E in Information Technology",
+        "courseyear":"(2019-2023)",
+        "institute":"University Institute of Engineering and Technology",
+        "grade":"CGPA: 8.76/10.00"
+    },
+    {
+        "id":2,
+        "coursename":"Class 12th",
+        "courseyear":"2018",
+        "institute":"Little Flower Children School",
+        "grade":"70% Percentage"
+    },
+    {
+        "id":3,
+        "coursename":"Class 10th",
+        "courseyear":"2016",
+        "institute":"Little Flower Children School",
+        "grade":"CGPA: 9.40/ 10.00"
+    }
+]

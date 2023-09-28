@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "year": "Jan, 2023 - Jun, 2023",
+    "companyname": "Amazon",
+    "position": "Software Development Engineer | Intern",
+    "desc": "I worked on reducing latency in UpsellService. I actively participated in the CI/CD pipeline to ensure the smooth and continuous delivery of high-quality software. I collaborated with the team to identify performance bottlenecks, propose targeted optimizations, and successfully contribute to the overall system optimization. This further strengthened customer satisfaction and retention. I have written clean and efficient code for the UpsellService. I have also written unit tests to ensure its functionality. Additionally, I have utilized Amazon's proprietary Datapath Query Language to optimize the code and reduce latency. As a result, the view level latency has been reduced by 80-85%, from the original 30ms to 25ms. At the service level, the latency has been reduced by 5ms."
+  },
+  {
+    "id": 2,
+    "year": "Jul, 2022 – Aug, 2022",
+    "companyname": "DIC LAB",
+    "position": "Artifical Intelligence Intern",
+    "desc": "Gained hands-on experience in Deep Learning and Neural Networks, acquiring a strong foundation in fundamental concepts and techniques. Mastered essential libraries such as Pandas, Matplotlib, NumPy, TensorFlow, and Image Segmentation, demonstrating proficiency in data manipulation, visualization, numerical computing, deep learning frameworks, and image segmentation algorithms. Successfully applied acquired knowledge to complete weekly assignments provided by the DIC Lab, showcasing practical implementation and problem-solving skills in the field of Deep Learning and Neural Networks. Actively engaged in continuous learning and exploration, staying updated with the latest advancements in Deep Learning and actively seeking opportunities to apply the gained knowledge to real-world projects."
+  }
+]
