@@ -8,7 +8,6 @@ import MailIcon from "../assets/img/socialicons/email.png";
 
 const Home = () => {
   return (
-    <>
       <div className="container py-5">
         <div className="row">
           <div className="col-sm-5 col-md-5 col-lg-5 pt-3">
@@ -65,7 +64,6 @@ const Home = () => {
           </div>
         </div>
       </div>
-    </>
   );
 };
 

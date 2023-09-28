@@ -9,12 +9,12 @@
 }
 
 .form-control {
-  background-color: rgb(18, 18, 18) !important;
+  background-color: white !important;
   border: none !important;
   border-radius: 0px !important;
   margin-bottom: 15px;
   border-bottom: 1px solid rgb(23, 23, 23) !important;
-  color: #fff !important;
+  color: #fff ;
 }
 
 .form-control:focus {
