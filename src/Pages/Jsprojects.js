@@ -26,6 +26,7 @@ const Jsprojects = () => {
                       className="btn btn-primary github me-3"
                       href="https://text-analyzer-7ff2a.web.app/"
                       target="_blank"
+                      rel="noreferrer"
                     >
                       Demo
                     </a>
@@ -35,7 +36,7 @@ const Jsprojects = () => {
                       target="_blank"
                       rel="noreferrer"
                     >
-                      Code <img src={githubImg} />
+                      Code <img src={githubImg} alt=""/>
                     </a>
                   </div>
                 </div>
@@ -46,6 +47,7 @@ const Jsprojects = () => {
                     <a
                       href="https://newsagent-674b0.web.app/"
                       target="_blank"
+                      rel="noreferrer"
                       className="btn btn-primary github ms-3"
                     >Demo
                     </a>
@@ -55,7 +57,7 @@ const Jsprojects = () => {
                       target="_blank"
                       rel="noreferrer"
                     >
-                      Code <img src={githubImg} />
+                      Code <img src={githubImg} alt=""/>
                     </a>
                   </div>
                 </div>
@@ -66,7 +68,11 @@ const Jsprojects = () => {
               <div className="row">
                 <div className="col-sm-6">
                   <h2>Brain Tumor Segmentation</h2>
-                  <a href="https://github.com/satyajeet-rajupali/Brain-Tumor-Segmentation-Using-UNET" target="_blank">
+                  <a 
+                  href="https://github.com/satyajeet-rajupali/Brain-Tumor-Segmentation-Using-UNET" 
+                  target="_blank"
+                  rel="noreferrer"
+                  >
                     <img src={brainTumorSegementation} alt="Ecommerce Small Project" />
                   </a>
                   <br />
@@ -76,7 +82,7 @@ const Jsprojects = () => {
                     target="_blank"
                     rel="noreferrer"
                   >
-                    Code <img src={githubImg} />
+                    Code <img src={githubImg} alt=""/>
                   </a>
                 </div>
                 <div className="col-sm-6">
@@ -84,6 +90,7 @@ const Jsprojects = () => {
                   <a
                     href="https://github.com/satyajeet-rajupali/COVID19_FACE_MASK_DETECTION"
                     target="_blank"
+                    rel="noreferrer"
                   >
                     <img src={faceMaskDetections} alt="Ecommerce Small Project" />
                   </a>
@@ -93,7 +100,7 @@ const Jsprojects = () => {
                     target="_blank"
                     rel="noreferrer"
                   >
-                    Code <img src={githubImg} />
+                    Code <img src={githubImg} alt=""/>
                   </a>
                 </div>
               </div>
@@ -105,6 +112,7 @@ const Jsprojects = () => {
                 <a
                   href="https://github.com/satyajeet-rajupali/Early-Parkinson-Disease-Detection-Using-Audio-Signal-Processing"
                   target="_blank"
+                  rel="noreferrer"
                 >
                   <img src={parkinson} alt="Research Paper" />
                 </a>
@@ -114,7 +122,7 @@ const Jsprojects = () => {
                   target="_blank"
                   rel="noreferrer"
                 >
-                  Code <img src={githubImg} />
+                  Code <img src={githubImg} alt=""/>
                 </a>
               </div>
             </div>
